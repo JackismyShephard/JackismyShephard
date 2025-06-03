@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 📈 My GitHub stats
 | <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackismyShephard&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
