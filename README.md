@@ -1,11 +1,6 @@
 ## Hi there 👋
 ## Stats 📈
-| <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackismyShephard&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&count_private=true&include_all_commits=true&show_icons=true&custom_title=j178%27s%20GitHub%20stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackismyShephard&theme=default&show_icons=true&count_privat4=false" />
-</p>
+| <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackismyShephard&layout=compact&theme=default&hide_border=true" /></a> |
 
 <!--
 **JackismyShephard/JackismyShephard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
