@@ -1,7 +1,12 @@
 ## Hi there 👋
 ## Stats 📈
 | <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackismyShephard&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=j178&count_private=true&include_all_commits=true&show_icons=true&custom_title=j178%27s%20GitHub%20stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j178&theme=default&show_icons=true&count_privat4=false" />
+</p>
+
 <!--
 **JackismyShephard/JackismyShephard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
