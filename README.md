@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a backend-leaning full-stack engineer with a background in computer science and practical experience with AI and machine learning. I enjoy building typed, maintainable systems — especially in Python, where I focus on clean abstractions, thorough testing, and modern tooling like FastAPI, Pydantic, and SQLAlchemy.
+I am a backend-leaning full-stack engineer with a background in computer science and practical experience with AI and machine learning. I enjoy building typed, maintainable systems with clean abstractions and thorough testing — especially in Python, where I work extensively with modern frameworks like FastAPI, Pydantic, and SQLAlchemy.
 
 Early exposure to functional programming shaped how I think about software — emphasizing composability, abstraction, and correctness. I try to bring that mindset into everything from API design to internal tooling. I’m especially interested in audio applications of AI, and maintain [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc), a song cover toolkit engineered with clean architecture in mind.
 ## Stats 📈
