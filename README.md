@@ -1,10 +1,10 @@
 ## Hi there 👋
-I am a backend-leaning full-stack engineer with data science roots. By day, I build web apps in the cybersecurity space. Off-hours I sharpen my ML skills, lately diving into audio applications of AI. That exploration led me to build [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc) — a song cover toolkit engineered with clean architecture in mind. Being a devotee of functional programming, I strive to apply its paradigms whenever possible. In Python—my current language of choice—that mindset translates to best-practice habits such as strict typing with Pyright and the use of modern frameworks like FastAPI, Pydantic, and SQLAlchemy.
+I am a backend-leaning full-stack engineer with data science roots. By day, I build web apps in the cybersecurity space. Off-hours I sharpen my ML skills, lately diving into audio applications of AI. That exploration has led me to build [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc) — a song cover toolkit engineered with clean architecture in mind. Being a devotee of functional programming, I strive to apply its paradigms whenever possible. In Python—my current language of choice—that mindset translates to best-practice habits such as strict typing with Pyright and the use of modern frameworks like FastAPI, Pydantic, and SQLAlchemy.
 
 **Ask me about**:
 
-- 🐍 Clean Python tooling — Pyright, Ruff, uv
-- 🎤 Audio ML — RVC, TTS
+- 🐍 Python tooling — Pyright, Ruff, uv (typed, fast,clean workflows)
+- 🎵  Audio ML — building with RVC and TTS pipelines
 - 🧠 Functional thinking — types, composition, monads (yes, those)
 
 If you’re building cool things or thinking deeply about software, I’d love to hear from you.
