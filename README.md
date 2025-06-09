@@ -3,7 +3,7 @@ I am a backend-leaning full-stack engineer with data science roots. By day, I bu
 
 **Ask me about**:
 
-- 🐍 Python tooling — Pyright, Ruff, uv (typed, fast,clean workflows)
+- 🐍 Python tooling — Pyright, Ruff, uv (typed, fast, clean workflows)
 - 🎵  Audio ML — building with RVC and TTS pipelines
 - 🧠 Functional thinking — types, composition, monads (yes, those)
 
