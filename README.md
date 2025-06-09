@@ -10,7 +10,7 @@ I am a backend-leaning full-stack engineer with data science roots. By day, I bu
 If you’re building cool things or thinking deeply about software, I’d love to hear from you.
   
 ## Stats 📈
-<a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?size_weight=0.5&count_weight=0.5&username=JackismyShephard&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?size_weight=0.5&count_weight=0.5&username=JackismyShephard&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook" /></a>
 
 <!--
 **JackismyShephard/JackismyShephard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
