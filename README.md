@@ -1,15 +1,13 @@
 ## Hi there 👋
-I am a backend-leaning full-stack engineer with a background in computer science and practical experience with AI and machine learning. I enjoy building typed, maintainable systems with clean abstractions and thorough testing — especially in Python, where I work extensively with modern frameworks like FastAPI, Pydantic, and SQLAlchemy.
-
-Early exposure to functional programming shaped how I think about software — emphasizing composability, abstraction, and correctness. I try to bring that mindset into everything from API design to internal tooling. I’m especially interested in audio applications of AI, and maintain [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc), a song cover toolkit engineered with clean architecture in mind.
+I am a backend-leaning full-stack engineer with data science roots. By day, I build web apps in the cybersecurity space. Off-hours I sharpen my ML skills, lately diving into audio applications of AI. That exploration led me to build [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc) — a song cover toolkit engineered with clean architecture in mind. Being a devotee of functional programming, I strive to apply its paradigms whenever possible. In Python—my current language of choice—that mindset translates to best-practice habits such as strict typing with Pyright and the use of modern frameworks like FastAPI, Pydantic, and SQLAlchemy.
 
 **Ask me about**:
 
-- 🌐 API development (FastAPI, Pydantic)  
-- 🐍 Modern Python tooling (Pyright, Ruff, uv)  
-- 🎤 Voice conversion (RVC) and TTS  
-- 👁️ Computer vision (CNNs, GANs, XAI) 
-- 🤓 What a monad is (functional paradigms)
+- 🐍 Clean Python tooling — Pyright, Ruff, uv
+- 🎤 Audio ML — RVC, TTS
+- 🧠 Functional thinking — types, composition, monads (yes, those)
+
+If you’re building cool things or thinking deeply about software, I’d love to hear from you.
   
 ## Stats 📈
 <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> <a href="https://github.com/JackismyShephard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackismyShephard&layout=compact&theme=default&hide_border=true" /></a>
