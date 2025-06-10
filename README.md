@@ -1,7 +1,9 @@
 ## Hi there 👋
-I am a backend-leaning full-stack engineer with data science roots. By day, I build web apps in the cybersecurity space. Off-hours I sharpen my ML skills, lately diving into audio applications of AI. That exploration has led me to build [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc) — a song cover toolkit engineered with clean architecture in mind. 
+I'm a backend-leaning full-stack engineer with a background in data science.
 
-Being an advocate for functional programming, I strive to apply its principles wherever possible. In Python — my current language of choice — that mindset translates to best practices such as strict typing with Pyright and the use of modern frameworks like FastAPI, Pydantic, and SQLAlchemy.
+I like building fast, maintainable systems where clean architecture meets applied AI. I'm into typed Python, modern web stacks, and functional programming patterns that make code more composable, correct, and fun to work with.
+
+I maintain [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc), a modular voice conversion toolkit for TTS and song cover generation.
 
 **Ask me about**:
 
@@ -9,7 +11,7 @@ Being an advocate for functional programming, I strive to apply its principles w
 - 🎵  Audio ML — building with RVC and TTS pipelines
 - 🧠 Functional thinking — types, composition, monads (yes, those)
 
-If you’re building cool things or thinking deeply about software, I’d love to hear from you.
+Always happy to talk clean code, open-source projects, or well-engineered AI.
   
 ## Stats 📈
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JackismyShephard&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?size_weight=0.5&count_weight=0.5&username=JackismyShephard&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook&exclude_repo="/></a>
