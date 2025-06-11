@@ -8,7 +8,8 @@ I maintain [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc), a m
 **Ask me about**:
 
 - 🐍 Python tooling — Pyright, Ruff, uv (typed, fast, clean workflows)
-- 🎵  Audio ML — building with RVC and TTS pipelines
+- 🌐 Lightweight web apps — htmx and FastAPI (no SPA fatigue)
+- 🎵 Audio ML — building with RVC and TTS pipelines
 - 🧠 Functional thinking — types, composition, monads (yes, those)
 
 Always happy to talk clean code, open-source projects, or well-engineered AI.
