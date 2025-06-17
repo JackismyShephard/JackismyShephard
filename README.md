@@ -3,9 +3,6 @@ I'm a backend-leaning full-stack engineer with a background in data science.
 
 I like building fast, maintainable systems where clean architecture meets applied AI. I'm into typed Python, modern web stacks, and functional programming patterns that promote composability and correctness.
 
-
-make code more composable, correct, and fun to work with.
-
 I maintain [Ultimate RVC](https://github.com/JackismyShephard/ultimate-rvc), a modular voice conversion toolkit for TTS and song cover generation.
 
 **Ask me about**:
